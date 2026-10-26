@@ -1,8 +1,8 @@
-## Tugas Praktikum Desain Web Pertemuan 1
+# Tugas Praktikum Desain Web Pertemuan 05
 
+## Screenshot Pada Desktop dan Mobile 
 
-## Struktur Folder
-
+### Ringkasan
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources

@@ -1,8 +1,8 @@
-## Getting Started
+# Tugas Praktikum Desain Web Pertemuan 06
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Screenshot Pada Desktop dan Mobile 
 
-## Folder Structure
+### Ringkasan
 
 The workspace contains two folders by default, where:
 
